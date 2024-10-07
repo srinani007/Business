@@ -4,6 +4,7 @@ package com.SQLDB.SQLDB;
 public class Counter {
     private final String name;
     private int count = 0;
+    private int count1 = 0;
 
     public Counter(String id) {
         this.name = id;
